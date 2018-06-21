@@ -10,10 +10,10 @@ warnings.filterwarnings("ignore")
 
 
 #path to training data
-source   = "development_set\\"   
+source   = "/home/tarek/dsp_project/Speaker-identification-using-GMMs/development_set/"
 
 #path where training speakers will be saved
-dest = "speaker_models\\"
+dest = "/home/tarek/dsp_project/Speaker-identification-using-GMMs/speaker_models/"
 
 train_file = "development_set_enroll.txt"        
 

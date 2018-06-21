@@ -10,9 +10,9 @@ import time
 
 
 #path to training data
-source   = "development_set\\"   
+source   = "/home/tarek/dsp_project/Speaker-identification-using-GMMs/development_set/"
 
-modelpath = "speaker_models\\"
+modelpath = "/home/tarek/dsp_project/Speaker-identification-using-GMMs/speaker_models/"
 
 test_file = "development_set_test.txt"        
 
